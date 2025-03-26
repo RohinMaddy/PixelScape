@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "luffy-gear-5-sun-god-nika-one-piece-phone-wallpap… 2.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "luffy-gear-5-sun-god-nika-one-piece-phone-wallpap… 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "luffy-gear-5-sun-god-nika-one-piece-phone-wallpap….png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
